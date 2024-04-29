@@ -177,9 +177,13 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ![image](https://github.com/kanmanikannu/simplecalculator/assets/114866367/8d99f54e-4bf3-46ed-9549-75a33504b4c9)
+
 ![image](https://github.com/kanmanikannu/simplecalculator/assets/114866367/d37252cb-c37d-4884-847f-6ccda635a2d6)
+
 ![image](https://github.com/kanmanikannu/simplecalculator/assets/114866367/340b669c-2f2f-4d58-a22a-582762a7b21a)
+
 ![image](https://github.com/kanmanikannu/simplecalculator/assets/114866367/8b81b636-24ce-462c-acd1-25a6578a5428)
+
 ![image](https://github.com/kanmanikannu/simplecalculator/assets/114866367/1a6072d3-3f86-4893-b195-bace629d4f4f)
 
 
